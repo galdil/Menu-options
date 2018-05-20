@@ -1,0 +1,7 @@
+C:\Users\Gal\source\repos\B18 Ex04 GalDayagi 203836598 AfikShani 302190947\B18 Ex04 Gal 203836598 Afik 302190947\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe.config
+C:\Users\Gal\source\repos\B18 Ex04 GalDayagi 203836598 AfikShani 302190947\B18 Ex04 Gal 203836598 Afik 302190947\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\Gal\source\repos\B18 Ex04 GalDayagi 203836598 AfikShani 302190947\B18 Ex04 Gal 203836598 Afik 302190947\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\Gal\source\repos\B18 Ex04 GalDayagi 203836598 AfikShani 302190947\B18 Ex04 Gal 203836598 Afik 302190947\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csproj.CoreCompileInputs.cache
+C:\Users\Gal\source\repos\B18 Ex04 GalDayagi 203836598 AfikShani 302190947\B18 Ex04 Gal 203836598 Afik 302190947\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\Gal\source\repos\B18 Ex04 GalDayagi 203836598 AfikShani 302190947\B18 Ex04 Gal 203836598 Afik 302190947\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
+C:\Users\Gal\source\repos\B18 Ex04 GalDayagi 203836598 AfikShani 302190947\B18 Ex04 Gal 203836598 Afik 302190947\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csprojResolveAssemblyReference.cache
